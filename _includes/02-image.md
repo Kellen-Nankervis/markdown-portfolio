@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![](https://cdn.discordapp.com/attachments/801885783954161695/866924735173623828/iu.png)
