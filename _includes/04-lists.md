@@ -1,5 +1,5 @@
-<ol>
-  <li> First item </li>
-  <li> Second item </li>
-  <li> Third item </li>
-</ol>
+- item 1
+
+* item 2
+
+- item 3
